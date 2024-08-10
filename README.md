@@ -1,3 +1,3 @@
 # apnacode
 This is my first Git Repository,
-Author-Shradha Khapra
+Author-Shradha (Apna college)
